@@ -1,0 +1,15 @@
+D:\DotnetCore\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+D:\DotnetCore\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+D:\DotnetCore\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+D:\DotnetCore\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Utility.dll
+D:\DotnetCore\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+D:\DotnetCore\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CopyComplete
